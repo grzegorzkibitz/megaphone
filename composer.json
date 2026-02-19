@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "livewire/livewire": "^3.0.1"
+        "livewire/livewire": "^4.1.4"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.7",
